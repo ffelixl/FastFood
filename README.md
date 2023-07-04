@@ -1,1 +1,1 @@
-# FastFood
+Projeto simples de uma pequena demonstração do começo da aprendizagem em HTML e CSS, algumas imagens estão com tamanhos diferentes porque já foram fornecidas assim atráves do curso da udemy, caso fosse um projeto grande normalmente seria prioridade do setor de design.
